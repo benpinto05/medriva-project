@@ -1,0 +1,6 @@
+again-new MEDRIVA/node_modules/
+again-new gittt/node_modules/
+.env
+*.log
+dist/
+build/
