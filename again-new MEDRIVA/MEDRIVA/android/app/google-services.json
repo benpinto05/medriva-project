@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "661106898800",
+    "project_id": "login-page-f07c9",
+    "storage_bucket": "login-page-f07c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661106898800:android:dbec194a18dce080aec1b5",
+        "android_client_info": {
+          "package_name": "com.example.medriva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661106898800-ecu7rc6ssqu2qu6fuem2k3pdbloo0067.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VQMhrTanGzHe4Bk7dTQb5wS9Po9I5GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661106898800-ecu7rc6ssqu2qu6fuem2k3pdbloo0067.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661106898800-2c7hr2plde4spn7estdc1aspbf2nsolp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medriva"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661106898800:android:ee1ec3bdd6dfa337aec1b5",
+        "android_client_info": {
+          "package_name": "com.example.medriva_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661106898800-ecu7rc6ssqu2qu6fuem2k3pdbloo0067.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VQMhrTanGzHe4Bk7dTQb5wS9Po9I5GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661106898800-ecu7rc6ssqu2qu6fuem2k3pdbloo0067.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661106898800-2c7hr2plde4spn7estdc1aspbf2nsolp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medriva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
